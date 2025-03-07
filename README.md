@@ -18,7 +18,7 @@ Follow the steps below to set up the project locally.
 To clone the repository to your local machine, run the following command:
 
 ```bash
-git clone [https://github.com/your-username/fake-data-generator.git](https://github.com/naman005/Data-Forge.git)
+git clone https://github.com/naman005/Data-Forge.git
 ```
 ### 2. Install dependencies
 
