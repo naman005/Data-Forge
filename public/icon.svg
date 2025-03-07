@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="16" cy="16" r="15" fill="#4F46E5" stroke="#4338CA" stroke-width="2"/>
+  
+  <!-- Data Visualization Elements -->
+  <rect x="8" y="10" width="4" height="12" rx="1" fill="white"/>
+  <rect x="14" y="14" width="4" height="8" rx="1" fill="white"/>
+  <rect x="20" y="8" width="4" height="14" rx="1" fill="white"/>
+  
+  <!-- Random Dots -->
+  <circle cx="10" cy="8" r="1" fill="white"/>
+  <circle cx="22" cy="6" r="1" fill="white"/>
+  <circle cx="16" cy="24" r="1" fill="white"/>
+</svg>
